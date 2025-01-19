@@ -1,8 +1,0 @@
-
-torch>=1.13
-torchvision>=0.14
-streamlit>=1.15
-Pillow
-
-
-
