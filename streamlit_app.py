@@ -84,6 +84,7 @@ if st.button("Transfer Style"):
 
         # Денормализация
         out_img = denormalize(output.squeeze(0)).cpu()
+        out_img = out_img.squeeze(0)
         # Перевод в PIL
         out_pil = transforms.ToPILImage()(out_img)
 
