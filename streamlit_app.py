@@ -90,4 +90,4 @@ if st.button("Transfer Style"):
 
         # Отображаем результат
         st.subheader("Result")
-        st.image(out_pil, caption="Stylized Image", use_column_width=True)
+        st.image(out_pil, caption="Stylized Image", use_container_width=True)
