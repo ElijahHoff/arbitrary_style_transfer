@@ -38,8 +38,13 @@ bash
 Copy
 pip install -r requirements.txt
 This should install PyTorch, TorchVision, Pillow, Streamlit, and any other libraries needed.
+
+There is a feature of how stong impact of style is.
+
 Training
 If you wish to re-train the model (for instance on a smaller subset of COCO and WikiArt), you can create a separate script, such as train.py, that:
+
+
 
 Loads and freezes the VGG encoder.
 Initializes the decoder for training.
