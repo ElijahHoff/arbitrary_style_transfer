@@ -5,3 +5,7 @@ torchvision==0.20.1+cpu
 streamlit>=1.15
 Pillow
 numpy
+flake8
+black
+isort
+
