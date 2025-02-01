@@ -6,10 +6,13 @@
 > Алгоритм основан на работе [Huang, X. & Belongie, S. (2017). *Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization*. ICCV 2017](https://openaccess.thecvf.com/content_ICCV_2017/html/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.html).
 
 ![Входное изображение](https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/image_2.jpg)
+**Рис. 1. Входное изображение**
 
 ![Стиль](https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/test_image_1.jpg)
+**Рис. 2. Стиль**
 
 ![Пример результата](https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/result_2_to_1.jpg)
+**Рис. 3. Пример результата**
 
 ---
 
