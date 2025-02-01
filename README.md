@@ -7,7 +7,7 @@
 
 ![Входное изображение](https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/image_2.jpg)
 ![Стиль](https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/image_1.jpg)
-![Пример результата]([path/to/example.png](https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/result_2_to_1.jpg))
+![Пример результата](https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/result_2_to_1.jpg)
 
 ---
 
