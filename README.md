@@ -4,6 +4,7 @@
 
 > **Базовая идея:**  
 > Алгоритм основан на работе [Huang, X. & Belongie, S. (2017). *Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization*. ICCV 2017](https://openaccess.thecvf.com/content_ICCV_2017/html/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.html).
+> Так же, в качестве примера дополнительных фичей реащизована возможность выбора силы (alpha) в веб-интерфейсе на [Streamlit](https://arbitrarystyletransfer-kueksrgep3kgntmauucvhx.streamlit.app/)
 
 <figure>
   <img src="https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/image_2.jpg" alt="Входное изображение" width="300"/>
