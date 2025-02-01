@@ -63,16 +63,18 @@
 
    pip install -r requirements.txt
    
-3. **Использование:**
+## Использование
 
   Запустите приложение с помощью Streamlit. Для этого выполните следующую команду в терминале:
   streamlit run streamlit_app.py
 
-4. **Примеры работы:**
+## Примеры работы
 В папке test_results находятся примеры работы алгоритма, где показаны результаты переноса стиля на различных изображениях. Ознакомьтесь с ними для более подробного понимания возможностей проекта.
 
-5. **Цитирование:**
+## Цитирование
+
 Если вы используете данный код в своей работе, просим сослаться на следующую публикацию:
+```bibtex
 @inproceedings{huang2017arbitrary,
   title={Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization},
   author={Huang, Xun and Belongie, Serge},
