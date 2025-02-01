@@ -98,5 +98,8 @@
   booktitle={Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
   year={2017}
 }
+```
 
+## Лицензия
+Этот проект распространяется под лицензией MIT. Подробности см. в файле [LICENSE.md]((https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/LICENSE.md)).
 
