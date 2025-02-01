@@ -14,6 +14,12 @@
 ![Пример результата](https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/result_2_to_1.jpg)
 **Рис. 3. Пример результата**
 
+<figure>
+  <img src="https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/test_results/image_2.jpg" alt="Входное изображение" width="300"/>
+  <figcaption>Рис. 1. Входное изображение</figcaption>
+</figure>
+
+
 ---
 
 ## Оглавление
