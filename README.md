@@ -101,5 +101,5 @@
 ```
 
 ## Лицензия
-Этот проект распространяется под лицензией MIT. Подробности см. в файле [LICENSE.md]((https://github.com/ElijahHoff/arbitrary_style_transfer/blob/main/LICENSE.md)).
+Этот проект распространяется под лицензией MIT. Подробности см. в файле [LICENSE.md](LICENSE.md).
 
