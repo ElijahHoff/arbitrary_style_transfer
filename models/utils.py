@@ -58,8 +58,6 @@ def save_image(tensor, path=None):
     Сохраняет тензор как картинку (предварительно денормализуя, если нужно).
     Если path=None, можно просто вернуть PIL-объект.
     """
-    # Если хотите денормализовать, раскомментируйте:
-    # tensor = denormalize(tensor)
     if tensor.ndimension() == 4:
         tensor = tensor.squeeze(0)
     pil_image = T.ToPILImage()(tensor.cpu())
